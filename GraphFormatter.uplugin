@@ -10,7 +10,7 @@
 	"DocsURL": "https://github.com/howaajin/graphformatter/blob/master/README.md",
 	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/297159d6d3f4425b9c095b18a811a401",
 	"SupportURL": "https://github.com/howaajin/graphformatter/issues",
-	"EnabledByDefault": true,
+	"EnabledByDefault": false,
 	"CanContainContent": false,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
@@ -25,6 +25,12 @@
 				"Mac",
 				"Linux"
 			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "AudioSynesthesia",
+			"Enabled": true
 		}
 	]
 }
